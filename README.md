@@ -16,3 +16,15 @@ despues seleccionar
 react
 despues  seleccionamos
 browser
+
+despleguegar con vercel
+
+# EL ENFONCE DE REACT ES CREAR EL ROUTER
+npm add react-router-dom
+
+ESTRUCTURA DEL PROYECTO 
+ATOMIC DESIGN
+
+Estilos taiwelinds
+npm install -D tailwindcss
+npx tailwindcss init
